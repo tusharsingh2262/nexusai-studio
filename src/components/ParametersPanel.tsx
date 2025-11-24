@@ -11,6 +11,7 @@ export function ParametersPanel() {
         <div>
           <p className="section-title mb-1">Controls</p>
           <h2 className="text-lg font-semibold">Parameters</h2>
+          ////////tushar///////
         </div>
         <Button
           variant="ghost"
