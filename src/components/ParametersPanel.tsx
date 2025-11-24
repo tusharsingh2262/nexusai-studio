@@ -25,7 +25,7 @@ export function ParametersPanel() {
         >
           Reset
         </Button>
-        ////tushar///
+        
       </div>
 
       <Slider
