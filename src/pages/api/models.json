@@ -1,0 +1,31 @@
+[
+  {
+    "id": "gpt-3.5",
+    "name": "GPT-3.5 Turbo",
+    "description": "Fast, cost-effective general assistant tuned for chat use cases.",
+    "latency": "150ms",
+    "tags": ["fast", "chat", "cost-efficient"]
+  },
+  {
+    "id": "gpt-4",
+    "name": "GPT-4 Omni",
+    "description": "Reasoning-focused model with extended context and safety guardrails.",
+    "latency": "350ms",
+    "tags": ["reasoning", "safe", "32k context"]
+  },
+  {
+    "id": "sonnet-3.5",
+    "name": "Claude Sonnet 3.5",
+    "description": "Anthropic's balanced model, strong at instruction following.",
+    "latency": "280ms",
+    "tags": ["balanced", "tool-use", "chat"]
+  },
+  {
+    "id": "custom-research",
+    "name": "Custom Research Model",
+    "description": "Internal model tuned for technical research and data synthesis.",
+    "latency": "420ms",
+    "tags": ["custom", "analysis", "beta"]
+  }
+]
+
